@@ -1,6 +1,3 @@
 {
-  "servers": [
-    "https://panel1.com",
-    "https://panel2.com"
-  ]
+  "baseUrl": "http://hamzogahvps.sano.biz.id:2591"
 }
