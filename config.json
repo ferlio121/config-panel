@@ -1,4 +1,3 @@
 {
-  "base_url": "http://node-alpsguanteng.cyber-host.my.id:2381",
-  "rat_url": "http://node-alpsguanteng.cyber-host.my.id:2211"
+  "baseUrl": "http://node-alpsguanteng.cyber-host.my.id:2381"
 }
